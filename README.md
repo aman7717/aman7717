@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Aman! 👋
 
-<!--
-**aman7717/aman7717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 🐍 Python Learner | 🤖 Exploring AI & Machine Learning
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing MCA in Artificial Intelligence & Machine Learning
+- 🐍 Currently learning Python
+- 🤖 Interested in AI & Machine Learning
+- 💻 Learning by building practical projects
+- 🚀 Improving my programming skills every day
+
+## 🛠️ Currently Learning
+
+🐍 Python | 📚 DSA | 🤖 AI & Machine Learning
+
+## 🎯 Goals
+
+- Master Python
+- Learn DSA with Python
+- Learn NumPy & Pandas
+- Build Machine Learning projects
+- Explore AI & LLMs
+
+## 📂 Projects
+
+🚧 Currently learning and building projects...
+
+More projects coming soon! 🚀
+
+---
+
+⭐ Learning today. Building tomorrow.
